@@ -14,13 +14,14 @@ Database: MySQL
 Tools: Maven, Postman
 
 **3. Features**
-✅ Account Management: Create, Read, and Delete user accounts.
 
-✅ Transactions: Real-time Deposit and Withdrawal logic.
+Account Management: Create, Read, and Delete user accounts.
 
-✅ Safety: Server-side validation to prevent insufficient fund errors.
+Transactions: Real-time Deposit and Withdrawal logic.
 
-✅ Error Handling: Global Exception Handler for clean JSON responses.
+Safety: Server-side validation to prevent insufficient fund errors.
+
+Error Handling: Global Exception Handler for clean JSON responses.
 
 **4. Setup & Installation**
 Clone the repo: git clone <your-url>
